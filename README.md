@@ -1,2 +1,1 @@
-# gis
-GIS tools, templates and datasets
+URGEOS (URban GEOgraphic System) is a set of tools for geographic data processing focused on land and urban planning. Project is in early stage tightly coupled with QGIS being implemented as its extension.
